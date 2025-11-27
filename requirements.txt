@@ -1,9 +1,9 @@
 streamlit==1.47.0
-pandas==2.3.1
-numpy==2.3.1
-plotly>=5.0
+pandas
+numpy
+plotly --pre
 tenacity>=8.0
-matplotlib==3.10.3
-openpyxl==3.1.5
-seaborn==0.13.2
-scikit-learn==1.7.1
+matplotlib
+openpyxl
+seaborn
+scikit-learn
